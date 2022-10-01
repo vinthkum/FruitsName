@@ -1,6 +1,6 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)
-// swift-module-flags: -target arm64-apple-ios16.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FruitName
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FruitName
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
 @_exported import FruitName
@@ -28,10 +28,6 @@ public enum Fruits : Swift.CaseIterable {
   public var hashValue: Swift.Int {
     get
   }
-}
-@_hasMissingDesignatedInitializers public class Utility {
-  public static func getHomeVC() -> UIKit.UIViewController
-  @objc deinit
 }
 extension FruitName.Fruits : Swift.Equatable {}
 extension FruitName.Fruits : Swift.Hashable {}

@@ -12,61 +12,49 @@
 		<data>
 		roHVPQAEF1Qu5nfmFD5HndhDqek=
 		</data>
-		<key>HomeScreen.storyboardc/FrameworkHomeVC.nib</key>
-		<data>
-		raOTo2Pgylam1LCqw+w6ev6Dtbg=
-		</data>
-		<key>HomeScreen.storyboardc/Info.plist</key>
-		<data>
-		eCPOaigg/TKq0CWV70LEf7cpw4w=
-		</data>
-		<key>HomeScreen.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<data>
-		1xu8Uu2+IQfuKE/osA+T4JBcmiE=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		SKSGMoG7FmInfPGcEjcPsLwfbOU=
+		QbS1Xcoknd2+ndc0eKJc/4NymaM=
 		</data>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JmzdC+q6yxMXYYP/ZZqTHP4UuzM=
+		eTitJq638S3XLpbRNZFnIX8A7pY=
 		</data>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		2isQmb01mOBbZs3ZjGWafULtMfI=
+		BnuaBgGFM1wLS49+pfaLciwWJ8M=
 		</data>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UsTRnSS0TpDz4dgG2KKPMLm9c60=
+		NIaUFkzjHT81WmYdhrvqvmgf6LI=
 		</data>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		2isQmb01mOBbZs3ZjGWafULtMfI=
+		BnuaBgGFM1wLS49+pfaLciwWJ8M=
 		</data>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4I71CqZiHN6CrlhL32cz53VKz30=
+		IF54CQ9q4O9MgE28/gcKxXOKk+A=
 		</data>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JmzdC+q6yxMXYYP/ZZqTHP4UuzM=
+		eTitJq638S3XLpbRNZFnIX8A7pY=
 		</data>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		04IUu+wA8Agu73/U7xv7et5YxHg=
+		SUtJP+NwXtel50nV/Uel+KXnynI=
 		</data>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		F+ks0tamWQ+pVxbvUfiOJNJCNCc=
+		LnZv/M6ip9Jnn0pHMJwEO5S3o2Y=
 		</data>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		04IUu+wA8Agu73/U7xv7et5YxHg=
+		SUtJP+NwXtel50nV/Uel+KXnynI=
 		</data>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AdeBT80FGwGvT4RLNa3Ybfr8JgY=
+		C+miz+TbLCMUD+d7SpHqQZm113Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,95 +77,74 @@
 			dBXHpkYJL2njm2UCHJ8V9U+mGWX/fFSNEK29EpQZ6Eo=
 			</data>
 		</dict>
-		<key>HomeScreen.storyboardc/FrameworkHomeVC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iF2WT+377sdyggCPK4raZllnczjvWAuQIRX85Dctw70=
-			</data>
-		</dict>
-		<key>HomeScreen.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			kenrCw6Bjo0DLcyRJMXaqw90ZvQtbYcB278pm4Q8/9Q=
-			</data>
-		</dict>
-		<key>HomeScreen.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7axM8pQi+be5nPiwXzWgiX1SqQj/I8FyDIWbABVBWOs=
-			</data>
-		</dict>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1KBZFjiwZrtpJ659UqSdirAOyAaJHDzyz3pLe0DDKA=
+			zgmSFnxULrLBxUuC/xIvMI8qn0rIptnlyqhpb3c04X8=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wulLpQcB96gisNJgIwHiN26pZWA0DXHiXuXdrlA+4g8=
+			eI++hR0XHVw472mqKDZ6cICHS/NQEN3bNH6ZPrn0tzg=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bbOuTzyVAFcV5EKFSEEJWG2xypuepeim9OBe+M8TXk0=
+			M57TZXZ3WL2yDk0FExYcmDHUrNvBqNgejC4bE58j9Ds=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wulLpQcB96gisNJgIwHiN26pZWA0DXHiXuXdrlA+4g8=
+			eI++hR0XHVw472mqKDZ6cICHS/NQEN3bNH6ZPrn0tzg=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4MnpuwBGmgO+HUKzx7aSrXy9K4+pduTk0HkrhIOZkwc=
+			TNy5UY2XIBFvWMWlDMflTIBMFhn+7STxTHNyO/K7yLg=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B1KBZFjiwZrtpJ659UqSdirAOyAaJHDzyz3pLe0DDKA=
+			zgmSFnxULrLBxUuC/xIvMI8qn0rIptnlyqhpb3c04X8=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hOsh4n2F5gIj6rLWzqPBiFDiXqr9aYmBywt4+DBC3OU=
+			DNyGsZMafK2iSk4IJI4i3VhdTGq5vrfaqCm+1OXHIxI=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qiI+u3J+i/tGL/B29s+LNEPoO/mgNouCw1gukn12NLs=
+			2pxN2AbsZ9CEI94KUgtWDx1WR1sbiiQl2m8P6oGeSn0=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hOsh4n2F5gIj6rLWzqPBiFDiXqr9aYmBywt4+DBC3OU=
+			DNyGsZMafK2iSk4IJI4i3VhdTGq5vrfaqCm+1OXHIxI=
 			</data>
 		</dict>
 		<key>Modules/FruitName.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F1R4/Z8mN3TxOLTGHUUu/GkNWPdO4I8zdug6OQx3snw=
+			10lxefQ9VYpqxm8mUhXtjtDWX3NMURQZfUXt5HmIDW8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

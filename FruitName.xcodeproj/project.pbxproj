@@ -9,14 +9,12 @@
 /* Begin PBXBuildFile section */
 		AF37C24128E880F300766DD9 /* FruitName.h in Headers */ = {isa = PBXBuildFile; fileRef = AF37C24028E880F300766DD9 /* FruitName.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AF37C24828E8814800766DD9 /* RandomFruitsGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF37C24728E8814800766DD9 /* RandomFruitsGenerator.swift */; };
-		AF37C27428E890C700766DD9 /* HomeScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF37C27328E890C700766DD9 /* HomeScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AF37C23D28E880F300766DD9 /* FruitName.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FruitName.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF37C24028E880F300766DD9 /* FruitName.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FruitName.h; sourceTree = "<group>"; };
 		AF37C24728E8814800766DD9 /* RandomFruitsGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomFruitsGenerator.swift; sourceTree = "<group>"; };
-		AF37C27328E890C700766DD9 /* HomeScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = HomeScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +49,6 @@
 			children = (
 				AF37C24028E880F300766DD9 /* FruitName.h */,
 				AF37C24728E8814800766DD9 /* RandomFruitsGenerator.swift */,
-				AF37C27328E890C700766DD9 /* HomeScreen.storyboard */,
 			);
 			path = FruitName;
 			sourceTree = "<group>";
@@ -126,7 +123,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AF37C27428E890C700766DD9 /* HomeScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +191,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -252,7 +248,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -279,6 +275,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -288,6 +285,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.infinite.FruitName;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -310,6 +310,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -319,6 +320,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.infinite.FruitName;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

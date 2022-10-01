@@ -474,44 +474,6 @@
             "mangledName": "$ss12CaseIterableP"
           }
         ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "Utility",
-        "printedName": "Utility",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "getHomeVC",
-            "printedName": "getHomeVC()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:9FruitName7UtilityC9getHomeVCSo16UIViewControllerCyFZ",
-            "mangledName": "$s9FruitName7UtilityC9getHomeVCSo16UIViewControllerCyFZ",
-            "moduleName": "FruitName",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:9FruitName7UtilityC",
-        "mangledName": "$s9FruitName7UtilityC",
-        "moduleName": "FruitName",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true
       }
     ],
     "json_format_version": 8

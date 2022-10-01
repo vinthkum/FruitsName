@@ -25,14 +25,3 @@ public enum Fruits: CaseIterable {
     case grapes
     case banana
 }
-
-
-public class Utility {
-
-    public static func getHomeVC() -> UIViewController {
-
-            let storyboard = UIStoryboard.init(name: "HomeScreen", bundle: Bundle(for: self))
-            let homeVC = storyboard.instantiateViewController(withIdentifier: "FrameworkHomeVC")
-            return homeVC
-    }
-}
