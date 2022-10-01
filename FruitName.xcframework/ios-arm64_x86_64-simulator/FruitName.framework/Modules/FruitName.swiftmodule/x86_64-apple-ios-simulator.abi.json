@@ -1,0 +1,520 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "FruitName",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "FruitName"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "RandomFruitsGenerator",
+        "printedName": "RandomFruitsGenerator",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RandomFruitsGenerator",
+                "printedName": "FruitName.RandomFruitsGenerator",
+                "usr": "s:9FruitName21RandomFruitsGeneratorC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9FruitName21RandomFruitsGeneratorCACycfc",
+            "mangledName": "$s9FruitName21RandomFruitsGeneratorCACycfc",
+            "moduleName": "FruitName",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "getRandomFruits",
+            "printedName": "getRandomFruits()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Fruits",
+                "printedName": "FruitName.Fruits",
+                "usr": "s:9FruitName6FruitsO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9FruitName21RandomFruitsGeneratorC03getcD0AA0D0OyF",
+            "mangledName": "$s9FruitName21RandomFruitsGeneratorC03getcD0AA0D0OyF",
+            "moduleName": "FruitName",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9FruitName21RandomFruitsGeneratorC",
+        "mangledName": "$s9FruitName21RandomFruitsGeneratorC",
+        "moduleName": "FruitName",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Fruits",
+        "printedName": "Fruits",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "mango",
+            "printedName": "mango",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FruitName.Fruits.Type) -> FruitName.Fruits",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fruits",
+                    "printedName": "FruitName.Fruits",
+                    "usr": "s:9FruitName6FruitsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FruitName.Fruits.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9FruitName6FruitsO5mangoyA2CmF",
+            "mangledName": "$s9FruitName6FruitsO5mangoyA2CmF",
+            "moduleName": "FruitName"
+          },
+          {
+            "kind": "Var",
+            "name": "orange",
+            "printedName": "orange",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FruitName.Fruits.Type) -> FruitName.Fruits",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fruits",
+                    "printedName": "FruitName.Fruits",
+                    "usr": "s:9FruitName6FruitsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FruitName.Fruits.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9FruitName6FruitsO6orangeyA2CmF",
+            "mangledName": "$s9FruitName6FruitsO6orangeyA2CmF",
+            "moduleName": "FruitName"
+          },
+          {
+            "kind": "Var",
+            "name": "papaya",
+            "printedName": "papaya",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FruitName.Fruits.Type) -> FruitName.Fruits",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fruits",
+                    "printedName": "FruitName.Fruits",
+                    "usr": "s:9FruitName6FruitsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FruitName.Fruits.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9FruitName6FruitsO6papayayA2CmF",
+            "mangledName": "$s9FruitName6FruitsO6papayayA2CmF",
+            "moduleName": "FruitName"
+          },
+          {
+            "kind": "Var",
+            "name": "grapes",
+            "printedName": "grapes",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FruitName.Fruits.Type) -> FruitName.Fruits",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fruits",
+                    "printedName": "FruitName.Fruits",
+                    "usr": "s:9FruitName6FruitsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FruitName.Fruits.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9FruitName6FruitsO6grapesyA2CmF",
+            "mangledName": "$s9FruitName6FruitsO6grapesyA2CmF",
+            "moduleName": "FruitName"
+          },
+          {
+            "kind": "Var",
+            "name": "banana",
+            "printedName": "banana",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(FruitName.Fruits.Type) -> FruitName.Fruits",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fruits",
+                    "printedName": "FruitName.Fruits",
+                    "usr": "s:9FruitName6FruitsO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "FruitName.Fruits.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9FruitName6FruitsO6bananayA2CmF",
+            "mangledName": "$s9FruitName6FruitsO6bananayA2CmF",
+            "moduleName": "FruitName"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Fruits",
+                "printedName": "FruitName.Fruits",
+                "usr": "s:9FruitName6FruitsO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Fruits",
+                "printedName": "FruitName.Fruits",
+                "usr": "s:9FruitName6FruitsO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9FruitName6FruitsO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9FruitName6FruitsO2eeoiySbAC_ACtFZ",
+            "moduleName": "FruitName",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9FruitName6FruitsO9hashValueSivp",
+            "mangledName": "$s9FruitName6FruitsO9hashValueSivp",
+            "moduleName": "FruitName",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9FruitName6FruitsO9hashValueSivg",
+                "mangledName": "$s9FruitName6FruitsO9hashValueSivg",
+                "moduleName": "FruitName",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9FruitName6FruitsO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s9FruitName6FruitsO4hash4intoys6HasherVz_tF",
+            "moduleName": "FruitName",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "allCases",
+            "printedName": "allCases",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[FruitName.Fruits]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Fruits",
+                    "printedName": "FruitName.Fruits",
+                    "usr": "s:9FruitName6FruitsO"
+                  }
+                ],
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9FruitName6FruitsO8allCasesSayACGvpZ",
+            "mangledName": "$s9FruitName6FruitsO8allCasesSayACGvpZ",
+            "moduleName": "FruitName",
+            "static": true,
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[FruitName.Fruits]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9FruitName6FruitsO8allCasesSayACGvgZ",
+                "mangledName": "$s9FruitName6FruitsO8allCasesSayACGvgZ",
+                "moduleName": "FruitName",
+                "static": true,
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9FruitName6FruitsO",
+        "mangledName": "$s9FruitName6FruitsO",
+        "moduleName": "FruitName",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CaseIterable",
+            "printedName": "CaseIterable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "AllCases",
+                "printedName": "AllCases",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Array",
+                    "printedName": "[FruitName.Fruits]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Fruits",
+                        "printedName": "FruitName.Fruits",
+                        "usr": "s:9FruitName6FruitsO"
+                      }
+                    ],
+                    "usr": "s:Sa"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12CaseIterableP",
+            "mangledName": "$ss12CaseIterableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Utility",
+        "printedName": "Utility",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "getHomeVC",
+            "printedName": "getHomeVC()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9FruitName7UtilityC9getHomeVCSo16UIViewControllerCyFZ",
+            "mangledName": "$s9FruitName7UtilityC9getHomeVCSo16UIViewControllerCyFZ",
+            "moduleName": "FruitName",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9FruitName7UtilityC",
+        "mangledName": "$s9FruitName7UtilityC",
+        "moduleName": "FruitName",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
