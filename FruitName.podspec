@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name		= "FruitName"
-spec.version		= "1.0.0"
+spec.version		= "0.1"
 spec.summary		= "It is a fruit name xcFramework"
 spec.description      = <<-DESC
 You will need to know your Spot ID (which looks like 'sp_xxxxxxx').
@@ -12,7 +12,7 @@ spec.authors      = { 'Vinoth' => 'r.vino88@gmail.com' }
 spec.license      = "MIT"
 spec.platform = :ios
 spec.ios.deployment_target = '13.0'
-spec.source       = { :git => 'https://github.com/vinthkum/FruitsName.git', :tag => 'v1.0.0'  }
+spec.source       = { :git => 'https://github.com/vinthkum/FruitsName.git', :tag => spec.version  }
 spec.vendored_frameworks = 'FruitName.xcframework'
 spec.swift_version = '5.0'
 end
